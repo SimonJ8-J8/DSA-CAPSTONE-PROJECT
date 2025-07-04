@@ -108,7 +108,7 @@ This project helped reinforce skills in:
 
 ## 👨‍💻 Author
 
-Simon Justice
+Dawat Ezra Simon
 Aspiring Business Data Analyst
 Excel | Power BI | SQL
 
