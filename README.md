@@ -1,4 +1,4 @@
-# DSA-CAPSTONE-PROJECT
+# DSA-CAPSTONE-PROJECT 1
 
 # 📊 Project Topic: Amazon Product Sales & Customer Insight Analysis
 
