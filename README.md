@@ -116,7 +116,9 @@ Excel | Power BI | SQL
 
 📁 Excel Dataset: Amazon case study.xlsx
 
-📊 Dashboards & Visuals: [Available upon request]
+📊 Dashboards & Visuals:
+
+
 
 📝 Presentation Summary: Coming soon
 
