@@ -118,7 +118,7 @@ Excel | Power BI | SQL
 
 📊 Dashboards & Visuals: The visuals are provided in the uploaded files
 
-#📝 Presentation Summary: 
+# 📝 Presentation Summary: 
 
 # 📊 Amazon Product Sales & Customer Insight Analysis
 
