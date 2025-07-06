@@ -236,8 +236,8 @@ Using Microsoft Excel for analysis, this project identifies:
 ├── visuals/
 │   └── charts and graphs (optional)
 ├── README.md
-✍️ Author
-Simon Justice
+### ✍️ Author
+Dawat Ezra Simon
 📌 Business Data Analyst
 🔧 Skills: Excel • Power BI • SQL • E-commerce Analytics
 
