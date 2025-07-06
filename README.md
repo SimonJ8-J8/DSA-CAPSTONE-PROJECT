@@ -116,11 +116,130 @@ Excel | Power BI | SQL
 
 📁 Excel Dataset: Amazon case study.xlsx
 
-📊 Dashboards & Visuals:
+📊 Dashboards & Visuals: The visuals are provided in the uploaded files
 
+#📝 Presentation Summary: 
 
+# 📊 Amazon Product Sales & Customer Insight Analysis
 
-📝 Presentation Summary: Coming soon
+---
+
+## 🎯 Executive Summary
+
+This project explores Amazon product data — specifically electronics accessories — to uncover how **pricing strategies**, **customer feedback**, and **discount patterns** influence **sales performance** and **product success** on the platform.
+
+Using Microsoft Excel for analysis, this project identifies:
+- Top-performing products
+- Key discount tactics
+- Consumer behavior trends
+- Actionable insights for business decision-making
+
+---
+
+## 📌 Project Objectives
+
+- 🔍 Analyze pricing and discount strategies
+- 🌟 Evaluate customer satisfaction and review trends
+- 🛒 Identify high-performing and low-performing products
+- 💼 Deliver business recommendations for product marketing and sales optimization
+
+---
+
+## 🗂️ Dataset Overview
+
+| Field                | Description |
+|----------------------|-------------|
+| `product_name`       | Product title |
+| `category`           | Category/subcategory path |
+| `discounted_price`   | Price after discount |
+| `actual_price`       | Original price |
+| `discount_percentage`| % of discount (derived) |
+| `rating`             | Average customer rating |
+| `rating_count`       | Number of ratings |
+| `review_title`       | Summary of customer review |
+| `review_content`     | Full review text |
+
+---
+
+## 🔍 Key Findings
+
+### 🏷️ Discounts & Pricing
+
+- **Average discount: 62%**
+- Some products discounted up to **90%**, especially in accessories and cables
+- Branded items typically offered smaller but more strategic discounts
+
+### 🌟 Customer Feedback
+
+- Most trusted products had **4.0+ ratings** and **10k+ reviews**
+- Positive reviews commonly highlight:
+  - ✅ “Fast charging”
+  - ✅ “Durability”
+  - ✅ “Value for money”
+- Negative reviews often point to:
+  - ❌ “Short life span”
+  - ❌ “Not original” items
+
+### 🏆 Best Performing Product Example
+
+- **boAt Deuce USB 300**
+  - ⭐ Rating: 4.2
+  - 💬 Reviews: 94,000+
+  - 💰 Discounted Price: ₹329
+  - ✅ Keywords: Fast charging, tangle-free, value
+
+---
+
+## 📈 Insights & Visualization Ideas
+
+| Chart | What it Shows |
+|-------|----------------|
+| 📊 Bar Chart | Average discount per category |
+| 📌 Scatter Plot | Rating vs. Number of Reviews |
+| 🧮 Histogram | Distribution of product ratings |
+| ☁️ Word Cloud | Most common review terms |
+
+---
+
+## 💡 Business Recommendations
+
+1. **Promote Highly Rated Products**  
+   Highlight them in Amazon ads and sponsored listings.
+
+2. **Optimize Discount Ranges**  
+   Ideal promotional window: **40%–60%** for sustainable sales without eroding brand value.
+
+3. **Track Product Complaints**  
+   Use review data to identify low-performing listings needing quality checks.
+
+4. **Strengthen Descriptions**  
+   Feature high-impact phrases like *"fast charging"*, *"tangle-free"*, *"durable cable"* in product titles.
+
+---
+
+## 🧰 Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| Excel | Data cleaning, formulas, PivotTables |
+| Power BI (optional) | Visualization and dashboarding |
+| Python (optional) | Advanced bonus or trend analysis |
+
+---
+
+## 📁 File Structure
+
+```plaintext
+📦 amazon-product-insight
+├── data/
+│   └── amazon_case_study.xlsx
+├── visuals/
+│   └── charts and graphs (optional)
+├── README.md
+✍️ Author
+Simon Justice
+📌 Business Data Analyst
+🔧 Skills: Excel • Power BI • SQL • E-commerce Analytics
 
 
 
